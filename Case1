@@ -1,0 +1,16 @@
+ 1. AD + DNS + DHCP Senaryosu
+Amaç: Otomatik IP dağıtımı, ad çözümleme ve merkezi kimlik yönetimi
+
+Senaryo:
+
+Windows Server kurulur ve AD DS + DNS + DHCP rollerini içerir.
+
+DHCP sunucusu, otomatik IP dağıtımı yapar (örnek: 192.168.10.0/24).
+
+DNS sunucusu, istemcilerin isteklerini çözümler (hostname -> IP).
+
+DHCP scope option’ları ile istemcilere DNS ve Default Gateway verilir.
+
+Client PC’ler domain’e katılır, otomatik IP alır ve AD oturumu açar.
+
+Test: IP değişimi, domain bağlantısı, nslookup ile çözümleme
