@@ -58,11 +58,4 @@ Her türlü yapılandırma değişikliği kaydedilmeli ve düzenli denetlenmelid
 Domain Controller’a fiziksel ve ağ erişimi sıkı denetim altında tutulmalıdır.
 *Bu başlıklar bir kaç yazı yazılıp, denenmiş olup sisteme yazılabilecek politikalar saptanmıştır ve sıralanmıştır.
 
-![image](https://github.com/user-attachments/assets/5233fcfc-ef2f-40c9-8b45-8afe1fc743c5)
-![image](https://github.com/user-attachments/assets/74f73b79-e6ba-4357-9646-3d0121ae3870)
-
-*Topoloji yukarıdaki gibi oluşturulmuştur.
-*Bir zafiyet çıktısın ise çıktısı verilmiştir.
-
-
 
